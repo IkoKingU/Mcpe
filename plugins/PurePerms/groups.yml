@@ -1,0 +1,140 @@
+---
+Guest:
+  alias: gst
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pperms.command.ppinfo
+  worlds: []
+Admin:
+  alias: adm
+  inheritance:
+  - Guest
+  permissions:
+  - cfa.command
+  - echest.use.1
+  - essentials.fly
+  - essentials.gamemode
+  - pchat.command.setgroup
+  - pocketmine.broadcast
+  - pocketmine.command.ban
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  - report.ver
+  - simplegamemode.change
+  - ss.cmd
+  - ss.sm
+  worlds: []
+Owner:
+  alias: owr
+  inheritance:
+  - Admin
+  permissions:
+  - essentials
+  - pocketmine.command
+  - pperms.command
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  worlds: []
+Creator:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+YouTuber:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - echest.use.1
+  - essentials.fly
+  - fly.cmd
+  - pocketmine.command.kick
+  - simplegamemode.change
+  worlds: []
+Famous:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - echest.use.1
+  - essentials.fly
+  - fly.cmd
+  - pocketmine.command.gamemode
+  - pocketmine.command.kick
+  - simplegamemode.change
+  worlds: []
+Jugador:
+  alias: ""
+  isDefault: true
+  inheritance: []
+  permissions:
+  - echest.use.1
+  worlds: []
+Moder:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - echest.use.1
+  - essentials.flu
+  - essentials.fly
+  - fly.cmd
+  - pocketmime.command.kick
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.tp
+  - pocketmine.commmand.teleport
+  - simplegamemode.change
+  worlds: []
+Staff:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - cfa.command
+  - day.pocketmine.command
+  - echest.use.1
+  - essentials.fly
+  - fly.cmd
+  - kill.pocketmine.command
+  - minecraft.command.timeset
+  - pocketmine.command.ban
+  - pocketmine.command.gamemode
+  - pocketmine.command.kick
+  - report.ver
+  - simplegamemode.change
+  - staffmode
+  worlds: []
+TopK:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - echest.use.1
+  - essentials.fly
+  - fly.cmd
+  - pocketmine.command.fly
+  worlds: []
+VIP:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.cmd
+  worlds: []
+...

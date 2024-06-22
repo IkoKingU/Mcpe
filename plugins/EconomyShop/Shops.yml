@@ -1,0 +1,112 @@
+---
+-78:19:156:shop:
+  x: -78
+  "y": 19
+  z: 156
+  level: shop
+  price: 50
+  item: 267
+  itemName: Iron Sword
+  meta: 0
+  amount: 1
+-78:19:154:shop:
+  x: -78
+  "y": 19
+  z: 154
+  level: shop
+  price: 50
+  item: 257
+  itemName: Iron Pickaxe
+  meta: 0
+  amount: 1
+-78:19:152:shop:
+  x: -78
+  "y": 19
+  z: 152
+  level: shop
+  price: 50
+  item: 258
+  itemName: Iron Axe
+  meta: 0
+  amount: 1
+-78:19:150:shop:
+  x: -78
+  "y": 19
+  z: 150
+  level: shop
+  price: 100
+  item: 322
+  itemName: Golden Apple
+  meta: 0
+  amount: 5
+-78:19:148:shop:
+  x: -78
+  "y": 19
+  z: 148
+  level: shop
+  price: 10
+  item: 5
+  itemName: Oak Wood Planks
+  meta: 0
+  amount: 20
+-78:19:146:shop:
+  x: -78
+  "y": 19
+  z: 146
+  level: shop
+  price: 5
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 10
+-79:19:145:shop:
+  x: -79
+  "y": 19
+  z: 145
+  level: shop
+  price: 10
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 20
+-81:19:145:shop:
+  x: -81
+  "y": 19
+  z: 145
+  level: shop
+  price: 20
+  item: 60
+  itemName: Farmland
+  meta: 0
+  amount: 5
+-83:19:145:shop:
+  x: -83
+  "y": 19
+  z: 145
+  level: shop
+  price: 5
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 1
+-85:19:145:shop:
+  x: -85
+  "y": 19
+  z: 145
+  level: shop
+  price: 200
+  item: 351
+  itemName: Ink Sac
+  meta: 0
+  amount: 1
+-87:19:145:shop:
+  x: -87
+  "y": 19
+  z: 145
+  level: shop
+  price: 300
+  item: 307
+  itemName: Iron Chestplate
+  meta: 0
+  amount: 1
+...

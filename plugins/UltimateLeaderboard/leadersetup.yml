@@ -1,0 +1,9 @@
+---
+# this for kills leaderboard.
+kill_led: "§bTop §f10 §cO'ldirganlar\n{top_list}"
+kill_led2: "§c{counts} §f» §b{name} ==> §a{kills}"
+# this for death leaderboard.
+death_led: "§bTop §f10 §cO'lganlar\n{top_list}"
+death_led2: "§c{counts} §f» §b{name} ==> §a{kills}"
+server_info: "§bIkoKing Serveriga Hush Kelibsiz!\n\nBu Yerda §e{count} §fO'yinchilar!\n\n§aO'yinga Qo'shiling!"
+...

@@ -1,0 +1,11 @@
+---
+Pemain:
+  max_regions_num: 8
+  max_region_count_blocks: 15000
+Vip:
+  max_regions_num: 8
+  max_region_count_blocks: 15000
+Kreatif:
+  max_regions_num: 8
+  max_region_count_blocks: 15000
+...

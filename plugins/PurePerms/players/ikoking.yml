@@ -1,0 +1,11 @@
+---
+userName: IkoKing
+group: Owner
+permissions: []
+worlds:
+  world:
+    group: Guest
+    permissions:
+    - "on"
+    - op
+...
